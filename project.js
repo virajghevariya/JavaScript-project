@@ -1,4 +1,4 @@
-console.log("welcome to the project");
+console.log("welcome to the project!");
 
 showNotes();
 let addBtn = document.getElementById("addBtn");
